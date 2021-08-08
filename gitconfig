@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 277080574@qq.com
+	name = Huiting Qiu
